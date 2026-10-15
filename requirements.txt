@@ -1,0 +1,8 @@
+ftfy==6.2.3
+networkx==2.8.8
+numpy==1.21.6
+Pillow==9.5.0
+regex==2024.11.6
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.67.1
